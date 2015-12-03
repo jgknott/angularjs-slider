@@ -27,7 +27,7 @@
     factory(root.angular);
   }
 
-}(this, function(angular) {
+}(this, function() {
   'use strict';
   var module = angular.module('rzModule', [])
 
